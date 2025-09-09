@@ -11,6 +11,7 @@ text-align:center;
 #footer {
 background: rgb(197, 255, 38);
 height: 66px;
+text-align: center;
 }
 #main-nav {
 height: 15px;
@@ -30,6 +31,7 @@ color: #000000;
 border-top: 1px solid #efefef;
 padding: 13px 25px;
 line-height: 18px;
+text-align: center;
 }
 #footer a {
 color: #c9c9c9;
